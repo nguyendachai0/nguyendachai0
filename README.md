@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full Stack Developer from Da Nang, Vietnam</h3>
 
 <p align="center">
-  <a href="[https://www.linkedin.com/in/your-linkedin-profile/](https://www.linkedin.com/in/dachaibackend/)" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin"></a>
+  <a href="https://www.linkedin.com/in/dachaibackend/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin"></a>
   <a href="mailto:haindfullstack@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"></a>
   <a href="https://github.com/your-github-username?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/your-github-username?label=Followers&style=social"></a>
 </p>
