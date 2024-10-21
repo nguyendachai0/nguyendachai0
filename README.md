@@ -55,6 +55,13 @@
 - Email: haindfullstack@gmail.com
 ---
 
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nguyendachai0&show_icons=true&theme=radical" alt="Your GitHub stats" />
+</p>
+
+---
 
 ### 🏆 GitHub Achievements:
 
