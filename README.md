@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Nguyen Dac Hai!</h1>
-<h3 align="center">Junior Software Engineer | PHP Developer | Full-Stack Enthusiast</h3>
+<h3 align="center">PHP Developer | Full-Stack Enthusiast</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/dachaifullstack/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin"></a>
@@ -11,8 +11,8 @@
 ---
 
 ### 👨‍💻 About Me:
-- 💼 I’m currently working as **Software Engineer at [FPT Software](https://fptsoftware.com).
-- 🧑‍💻 I’m contributing to the **Offshore Center Development (OCD)** project, maintaining legacy code using **Salsa**, **COBOL**, and **JUnit**.
+- 💼 I previously worked as a Software Engineer at FPT Software.
+- 🧑‍💻 I contributed to the Offshore Center Development (OCD) project, maintaining legacy code using Salsa, COBOL, and JUnit.
 - 🌱 I’m currently learning **TypeScript** and **React** to improve my front-end development skills.
 - 🚀 I love working on web applications, focusing on backend with **PHP** (Laravel), **Ruby on Rails**, and front-end with **React**.
 - 📚 I love learning new programming languages and frameworks and sharing my knowledge through contributions and articles.
