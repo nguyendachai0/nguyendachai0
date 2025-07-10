@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Nguyen Dac Hai!</h1>
-<h3 align="center">PHP Developer | Full-Stack Enthusiast</h3>
+<h3 align="center">BACKEND DEVELOPER</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/dachaifullstack/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin"></a>
